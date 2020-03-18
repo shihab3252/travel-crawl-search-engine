@@ -1,4 +1,4 @@
-# travel-crawl-search-engine
+# Travel Crawl: A Reddit Based Search Engine
 This is a travel related search engine which searches through indexes created using Lucene and Hadoop Mapreduce. The datasets are all Reddit datasets collected from official reddit API. The reddit posts are related to everything about travel.
 Deployment Instructions:
 1. In “credentials.py” file write the authentication credentials required (client ID, client secret, app name, reddit username, reddit password)
